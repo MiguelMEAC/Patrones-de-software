@@ -1,4 +1,6 @@
 # 🔧 Sistema de Mantenimiento Predictivo Industrial
+# Sandra Milena Albarracin Gualdron
+#Miguel Eduardo Ardila
 
 Plataforma para el **monitoreo de equipos industriales**, detección temprana de fallas mediante **Machine Learning**, gestión de órdenes de trabajo e inventario de repuestos.
 
@@ -52,17 +54,6 @@ El sistema contará con **autenticación y control de acceso por roles**, como:
 - Supervisor
 - Responsable de inventario
 - Analista
-
-## 🛠️ Tecnologías
-
-El proyecto contempla el uso de:
-
-- **Backend:** API y lógica de negocio.
-- **Base de datos:** Relacional o NoSQL.
-- **IoT:** Recepción de datos de sensores.
-- **Machine Learning:** Predicción y detección de anomalías.
-- **Frontend:** Dashboard para equipos, alertas y órdenes.
-- **Notificaciones:** Alertas de fallas y mantenimiento.
 
 ## 👥 Ejemplo de funcionamiento
 
