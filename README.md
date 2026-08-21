@@ -1,6 +1,6 @@
 # 🔧 Sistema de Mantenimiento Predictivo Industrial
 # Sandra Milena Albarracin Gualdron
-#Miguel Eduardo Ardila
+# Miguel Eduardo Ardila
 
 Plataforma para el **monitoreo de equipos industriales**, detección temprana de fallas mediante **Machine Learning**, gestión de órdenes de trabajo e inventario de repuestos.
 
